@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\appTestMetodoEvento\appTestMetodoEvento\bin\Debug\appTestMetodoEvento.exe.config
+C:\Users\Usuario\source\repos\appTestMetodoEvento\appTestMetodoEvento\bin\Debug\appTestMetodoEvento.exe
+C:\Users\Usuario\source\repos\appTestMetodoEvento\appTestMetodoEvento\bin\Debug\appTestMetodoEvento.pdb
+C:\Users\Usuario\source\repos\appTestMetodoEvento\appTestMetodoEvento\obj\Debug\appTestMetodoEvento.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\appTestMetodoEvento\appTestMetodoEvento\obj\Debug\appTestMetodoEvento.Form1.resources
+C:\Users\Usuario\source\repos\appTestMetodoEvento\appTestMetodoEvento\obj\Debug\appTestMetodoEvento.Properties.Resources.resources
+C:\Users\Usuario\source\repos\appTestMetodoEvento\appTestMetodoEvento\obj\Debug\appTestMetodoEvento.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\appTestMetodoEvento\appTestMetodoEvento\obj\Debug\appTestMetodoEvento.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\appTestMetodoEvento\appTestMetodoEvento\obj\Debug\appTestMetodoEvento.exe
+C:\Users\Usuario\source\repos\appTestMetodoEvento\appTestMetodoEvento\obj\Debug\appTestMetodoEvento.pdb
